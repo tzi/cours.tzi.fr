@@ -30,10 +30,11 @@ Les Techniques
 1. Box-sizing 
 2. Container
 3. Clearfix
-4. Spread
-5. Fab Four
-6. Flex-grow 9999
-7. Quantity Queries
+4. Media object
+5. Spread
+6. Fab Four
+7. Flex-grow 9999
+8. Quantity Queries
 
 Les Méthodologies
 ------
