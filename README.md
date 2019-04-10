@@ -31,11 +31,12 @@ Les Techniques
 2. Container
 3. Clearfix
 4. Media object
-5. Space even
+5. Space even 
 5. Spread
 6. Fab Four
 7. Flex-grow 9999
 8. Quantity Queries
+9. Full Bleed (https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)
 
 Les Méthodologies
 ------
