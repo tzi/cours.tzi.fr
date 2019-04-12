@@ -37,6 +37,7 @@ Les Techniques
 7. Flex-grow 9999
 8. Quantity Queries
 9. Full Bleed (https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)
+10. Aspect ratio (https://andy-bell.design/wrote/creating-an-aspect-ratio-css-utility/)
 
 Les Méthodologies
 ------
