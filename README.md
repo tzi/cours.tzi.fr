@@ -38,6 +38,7 @@ Les Techniques
 8. Quantity Queries
 9. Full Bleed (https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)
 10. Aspect ratio (https://andy-bell.design/wrote/creating-an-aspect-ratio-css-utility/)
+11. Fade out siblings (https://www.trysmudford.com/blog/fade-out-siblings-css-trick/)
 
 Les Méthodologies
 ------
