@@ -35,7 +35,7 @@ Les Techniques
 5. Spread
 6. Fab Four
 7. Flex-grow 9999
-8. Quantity Queries
+8. Quantity Queries (http://lea.verou.me/2011/01/styling-children-based-on-their-number-with-css3/)
 9. Full Bleed (https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/)
 10. Aspect ratio (https://andy-bell.design/wrote/creating-an-aspect-ratio-css-utility/)
 11. Fade out siblings (https://www.trysmudford.com/blog/fade-out-siblings-css-trick/)
