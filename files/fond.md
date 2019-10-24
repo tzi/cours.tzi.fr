@@ -19,7 +19,7 @@ La fonction `url()` permet d'indiquer l'url d'une image pour l'utiliser comme fo
 }
 ```
 
-La propriété `background-size` permet de définir la taille de l'image de fond. Elle peut être plus petite ou plus grande que 
+La propriété `background-size` permet de définir la taille de l'image de fond. Cette image peut être plus petite ou plus grande que notre élément. Si on veut que l'image s'adapte à la taille de notre élément, il existe 2 mots clés 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY3Mjc5LDQwNDk0OTA5Nl19
+eyJoaXN0b3J5IjpbLTU0OTY2MTA3Miw0MDQ5NDkwOTZdfQ==
 -->
