@@ -14,14 +14,20 @@ Vous pouvez indiquer que votre site internet est responsive à l'aide d'une bali
 
 Les requêtes média (_media queries_) permettent de modifier l'apparence d'un site en fonction du type d'appareil. La plupart du temps elles permettent d'appliquer certains styles en fonction de ses caractéristiques, notamment la largeur de la zone d'affichage (_viewport_).
 
+Voici une 
+
 ```css
-@media (max-width: 560px) {
-	h1
+@media (max-width: 560px) {  
+	.title {  
+		font-size: 24px;  
+	}
 }
 ```
 
+Dans cette 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE5MjkyMDAsLTE1OTMxODgwMzIsMT
-g0NjM0OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1
-ODk5MjEsLTMzNDk2MjE2XX0=
+eyJoaXN0b3J5IjpbMzMzNzg1Njc0LC0xNTkzMTg4MDMyLDE4ND
+YzNDk4OTgsLTE0MTgxOTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5
+OTIxLC0zMzQ5NjIxNl19
 -->
