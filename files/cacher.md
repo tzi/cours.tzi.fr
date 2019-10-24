@@ -6,7 +6,7 @@ En appliquant la déclaration `display: none` sur un élément, vous masquez un 
 
 ## Transparence globale
 
-La propriété `opacity` permet de définir le degré de visibilité d'un l'élément. La déclaration `opacity: 0` indi
+La propriété `opacity` permet de définir le degré de visibilité d'un l'élément. La déclaration `opacity: 0` indique qu'un élément est complètement transparent, `opacity: 1` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA3MTA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDUyMTkxXX0=
 -->
