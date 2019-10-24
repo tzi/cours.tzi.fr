@@ -1,6 +1,6 @@
 # Responsive
 
-Le responsi
+Le responsive est le fait d'adapter 
 
 ## Activer le responsive
 
@@ -34,8 +34,8 @@ h1 {
 
 ## Flexbox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg0NTc0MTMsLTEyMzUxNTk1MDMsLT
-EwMDUzMTU3MDgsLTE1OTMxODgwMzIsMTg0NjM0OTg5OCwtMTQx
-ODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5MjEsLTMzNDk2Mj
-E2XX0=
+eyJoaXN0b3J5IjpbODU0NDgwOTg3LC0xMjM1MTU5NTAzLC0xMD
+A1MzE1NzA4LC0xNTkzMTg4MDMyLDE4NDYzNDk4OTgsLTE0MTgx
+OTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5OTIxLC0zMzQ5NjIxNl
+19
 -->
