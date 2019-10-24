@@ -35,8 +35,10 @@ La déclaration `background-size: contain` permet de contenir une image de fond 
 }
 ```
 
-À l'aide de la fonction `linear-gradient()` on peut générer une image qui représentera un gradient. Cette fonction prend comme premier paramètre la direction, puis les autres paramètres 
+À l'aide de la fonction `linear-gradient()` on peut générer une image qui représentera un gradient. Cette fonction prend comme premier paramètre la direction, puis les autres paramètres sont des étapes de couleurs.
+
+![Exemple de gradient](https://mdn.mozillademos.org/files/3537/linear-gradient.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MjA1MDM4LC0xNDcwOTIyMDQ3LDQwND
-k0OTA5Nl19
+eyJoaXN0b3J5IjpbLTExNjI0MTE2OSwtMTQ3MDkyMjA0Nyw0MD
+Q5NDkwOTZdfQ==
 -->
