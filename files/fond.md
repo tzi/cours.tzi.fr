@@ -35,8 +35,8 @@ La déclaration `background-size: contain` permet de contenir une image de fond 
 }
 ```
 
-À 
+À l'aide de la fonction `linear-gradient()` on peut générer une image qui représentera u 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ4NDUxNTYsLTE0NzA5MjIwNDcsND
+eyJoaXN0b3J5IjpbLTEyNTM1NDE2MTUsLTE0NzA5MjIwNDcsND
 A0OTQ5MDk2XX0=
 -->
