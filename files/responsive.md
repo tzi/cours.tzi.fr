@@ -1,6 +1,6 @@
 # Responsive
 
-Le responsive est le fait d'adapter 
+Le responsive est le fait d'adapter un site internet aux différents
 
 ## Activer le responsive
 
@@ -34,8 +34,8 @@ h1 {
 
 ## Flexbox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NDgwOTg3LC0xMjM1MTU5NTAzLC0xMD
-A1MzE1NzA4LC0xNTkzMTg4MDMyLDE4NDYzNDk4OTgsLTE0MTgx
-OTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5OTIxLC0zMzQ5NjIxNl
-19
+eyJoaXN0b3J5IjpbMTExMTQ4Njg1NiwtMTIzNTE1OTUwMywtMT
+AwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2MzQ5ODk4LC0xNDE4
+MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OTkyMSwtMzM0OTYyMT
+ZdfQ==
 -->
