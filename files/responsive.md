@@ -32,12 +32,14 @@ h1 {
 }
 ```
 
+Voir la [documentation sur les media-queries](https://wiki.developer.mozilla.org/fr/docs/Web/CSS/Requ%C3%AAtes_m%C3%A9dia/Utiliser_les_Media_queries)
+
 ## Flexbox
 
 On n'a pas toujours besoin de requêtes média pour faire un site responsive. Les gabarits réalisés avec Flexbox peuvent s'adapter à l'espace disponible si l'on autorise 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjczMTg4ODIsMTExMTQ4Njg1NiwtMT
-IzNTE1OTUwMywtMTAwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2
-MzQ5ODk4LC0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OT
-kyMSwtMzM0OTYyMTZdfQ==
+eyJoaXN0b3J5IjpbMTA2MDQwMDc2NywxMTExNDg2ODU2LC0xMj
+M1MTU5NTAzLC0xMDA1MzE1NzA4LC0xNTkzMTg4MDMyLDE4NDYz
+NDk4OTgsLTE0MTgxOTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5OT
+IxLC0zMzQ5NjIxNl19
 -->
