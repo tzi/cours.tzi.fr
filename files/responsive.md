@@ -42,9 +42,11 @@ On n'a pas toujours besoin de requêtes média pour faire un site responsive. Pa
 /* Éléments flexibles sans césure */
 .conteneur {
 	display: flex;
+	width: 350px;
 }
 .boite {
 	flex: none;
+	width: 100px;
 }
 ```
 
@@ -54,17 +56,20 @@ On n'a pas toujours besoin de requêtes média pour faire un site responsive. Pa
 /* Éléments flexibles avec césure */
 .conteneur {
 	display: flex;
+	flex-wrap: nowrap;
+	width: 350px;
 }
-.square {
-	flex: none
+.boite {
+	flex: none;
+	width: 100px;
 }
 ```
 
-![Exemple d'éléments flexibles sans césure](https://imagebin.ca/v/4zYvrGaSgBvC)
+![Exemple d'éléments flexibles avec césure](https://ibin.co/4zYvrGaSgBvC.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NDgzMzA4LDQxMzEzNzUzLC0yMDQwNT
-YzNTQsMTA2MDQwMDc2NywxMTExNDg2ODU2LC0xMjM1MTU5NTAz
-LC0xMDA1MzE1NzA4LC0xNTkzMTg4MDMyLDE4NDYzNDk4OTgsLT
-E0MTgxOTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5OTIxLC0zMzQ5
-NjIxNl19
+eyJoaXN0b3J5IjpbMTA1ODA0Nzg3Myw0MTMxMzc1MywtMjA0MD
+U2MzU0LDEwNjA0MDA3NjcsMTExMTQ4Njg1NiwtMTIzNTE1OTUw
+MywtMTAwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2MzQ5ODk4LC
+0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OTkyMSwtMzM0
+OTYyMTZdfQ==
 -->
