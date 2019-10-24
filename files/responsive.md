@@ -17,12 +17,12 @@ Les requêtes média (_media queries_) permettent de modifier l'apparence d'un s
 Exemple de syntaxe :
 
 ```css
-/* Règles CSS qui s'appliquent quelque soit l'appareil */
+/* Taille d'écriture des titres quelque soit l'appareil */
 h1 {  
 	font-size: 36px;  
 }
 
-/*  */
+/* Titres plus petits pour les appareils qui font maximum 560px de large */
 @media (max-width: 560px) {  
 	h1 {  
 		font-size: 24px;  
@@ -33,7 +33,7 @@ h1 {
 Dans cette 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2OTg3NDAsLTE1OTMxODgwMzIsMTg0Nj
-M0OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5
-MjEsLTMzNDk2MjE2XX0=
+eyJoaXN0b3J5IjpbMTY3Mzk2NzIwNiwtMTU5MzE4ODAzMiwxOD
+Q2MzQ5ODk4LC0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4
+OTkyMSwtMzM0OTYyMTZdfQ==
 -->
