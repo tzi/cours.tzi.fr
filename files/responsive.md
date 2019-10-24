@@ -12,8 +12,11 @@ Vous pouvez indiquer que votre site internet est responsive à l'aide d'une bali
 
 ## Les requêtes média
 
-Les requêtes média (_media queries_) permettent de modifier l'apparence d'un site ou d'une application en fonction du type d'appareil. Par exemple, il est possible d'appliquer des (impression ou écran par exemple) et de ses caractéristiques (la résolution d'écran ou la largeur de la zone d'affichage (_viewport_) par exemple).
+Les requêtes média (_media queries_) permettent de modifier l'apparence d'un site ou d'une application en fonction du type d'appareil. Par exemple, il est possible d'appliquer des styles différents pour la visualisation et l'impression d'une page web. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjM0OTg5OCwtMTQxODE5OTA3MSwxNz
-cyNDk1Mzk2LDExNDI1ODk5MjEsLTMzNDk2MjE2XX0=
+eyJoaXN0b3J5IjpbLTEzMzk4NDUxNTYsMTg0NjM0OTg5OCwtMT
+QxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5MjEsLTMzNDk2
+MjE2XX0=
 -->
