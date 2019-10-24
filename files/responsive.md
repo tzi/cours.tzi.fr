@@ -36,10 +36,10 @@ Voir la [documentation sur les media-queries](https://wiki.developer.mozilla.org
 
 ## Flexbox
 
-On n'a pas toujours besoin de requêtes média pour faire un site responsive. Les gabarits réalisés avec Flexbox peuvent s'adapter à l'espace disponible avec la propriété `flex-wrap`. indique si les éléments flexibles sont contraints à être disposés sur une seule ligne ou s'ils peuvent être affichés sur plusieurs lignes avec un retour automatique. Si le retour à la ligne est autorisé, la propriété permet également de contrôler la direction dans laquelle les lignes sont empilées.
+On n'a pas toujours besoin de requêtes média pour faire un site responsive. Les gabarits réalisés avec Flexbox peuvent s'adapter à l'espace disponible avec la propriété `flex-wrap` indique si les éléments flexibles sont contraints à être disposés sur une seule ligne ou s'ils peuvent être affichés sur plusieurs lignes avec un retour automatique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE4ODA1OTIsMTA2MDQwMDc2NywxMT
-ExNDg2ODU2LC0xMjM1MTU5NTAzLC0xMDA1MzE1NzA4LC0xNTkz
-MTg4MDMyLDE4NDYzNDk4OTgsLTE0MTgxOTkwNzEsMTc3MjQ5NT
-M5NiwxMTQyNTg5OTIxLC0zMzQ5NjIxNl19
+eyJoaXN0b3J5IjpbLTI1NTQ1OTg2NywxMDYwNDAwNzY3LDExMT
+E0ODY4NTYsLTEyMzUxNTk1MDMsLTEwMDUzMTU3MDgsLTE1OTMx
+ODgwMzIsMTg0NjM0OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mz
+k2LDExNDI1ODk5MjEsLTMzNDk2MjE2XX0=
 -->
