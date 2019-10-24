@@ -20,9 +20,13 @@ La fonction `url()` permet d'indiquer l'url d'une image pour l'utiliser comme fo
 ```
 
 La propriété `background-size` permet de définir la taille de l'image de fond. Cette image peut être plus petite ou plus grande que notre élément. Si on veut que l'image s'adapte à la taille de notre élément, il existe 2 mots clés.
+
+![background-size: cover](https://ibin.co/4zZ9Ce0ncTwQ.png)
+
 La déclaration `background-size: cover` permet de recouvrir notre élément avec l'image de fond, quitte à ce que certaines parties de l'image ne soient pas visibles.
 La déclaration `background-size: contain` permet de contenir une image de fond à l'intérieur de notre élément, quitte à ce que certaines parties de notre élément ne dispose pas d'image de fond.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA5MjIwNDcsNDA0OTQ5MDk2XX0=
+eyJoaXN0b3J5IjpbMTczOTcyOTc5NywtMTQ3MDkyMjA0Nyw0MD
+Q5NDkwOTZdfQ==
 -->
