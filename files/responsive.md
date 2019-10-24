@@ -1,6 +1,6 @@
 # Responsive
 
-Le responsive est le fait d'adapter un site internet aux différents
+Le responsive est le fait d'adapter un site internet aux différents type d'appareils, notamment aux téléphones.
 
 ## Activer le responsive
 
@@ -34,8 +34,8 @@ h1 {
 
 ## Flexbox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTQ4Njg1NiwtMTIzNTE1OTUwMywtMT
-AwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2MzQ5ODk4LC0xNDE4
-MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OTkyMSwtMzM0OTYyMT
-ZdfQ==
+eyJoaXN0b3J5IjpbNjYyNzA3NzY4LDExMTE0ODY4NTYsLTEyMz
+UxNTk1MDMsLTEwMDUzMTU3MDgsLTE1OTMxODgwMzIsMTg0NjM0
+OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5Mj
+EsLTMzNDk2MjE2XX0=
 -->
