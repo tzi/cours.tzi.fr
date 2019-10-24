@@ -34,10 +34,10 @@ h1 {
 
 ## Flexbox
 
-On n'a pas toujours besoin de requêtes média pour faire un site responsive. Les gabarits peuvent s'adapter à la place disponible grâce à 
+On n'a pas toujours besoin de requêtes média pour faire un site responsive. Les gabarits réalisés avec Flexbox peuvent s'adapter à l'espace disponible si l'on autorise 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NjM3OTYsMTExMTQ4Njg1NiwtMTIzNT
-E1OTUwMywtMTAwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2MzQ5
-ODk4LC0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OTkyMS
-wtMzM0OTYyMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjczMTg4ODIsMTExMTQ4Njg1NiwtMT
+IzNTE1OTUwMywtMTAwNTMxNTcwOCwtMTU5MzE4ODAzMiwxODQ2
+MzQ5ODk4LC0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4OT
+kyMSwtMzM0OTYyMTZdfQ==
 -->
