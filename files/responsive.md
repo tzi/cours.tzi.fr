@@ -1,5 +1,7 @@
 # Responsive
 
+Le responsi
+
 ## Activer le responsive
 
 Par défaut, les navigateurs mobiles va partir du principe que votre site internet n'est pas adapté aux téléphones portables. Ainsi, ils vont afficher les sites web avec une largeur de `1024px` (par exemple), alors même que votre téléphone ne fait que `360px`. Pour un exemple concret, vous pouvez visiter [le site de majorette](https://www.majorette.com/fr/accueil/) avec votre téléphone ou avec le [mode mobile de Chrome](https://developers.google.com/web/tools/chrome-devtools/device-mode/#viewport).
@@ -30,9 +32,10 @@ h1 {
 }
 ```
 
-## 
+## Flexbox
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUxNTk1MDMsLTEwMDUzMTU3MDgsLT
-E1OTMxODgwMzIsMTg0NjM0OTg5OCwtMTQxODE5OTA3MSwxNzcy
-NDk1Mzk2LDExNDI1ODk5MjEsLTMzNDk2MjE2XX0=
+eyJoaXN0b3J5IjpbLTExMDg0NTc0MTMsLTEyMzUxNTk1MDMsLT
+EwMDUzMTU3MDgsLTE1OTMxODgwMzIsMTg0NjM0OTg5OCwtMTQx
+ODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5MjEsLTMzNDk2Mj
+E2XX0=
 -->
