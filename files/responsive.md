@@ -17,7 +17,7 @@ Les requêtes média (_media queries_) permettent de modifier l'apparence d'un s
 Exemple de syntaxe :
 
 ```css
-/* Des titres très gros quelque soit l'appareil */
+/* Des titres asssez grands par défaut (quelque soit l'appareil) */
 h1 {  
 	font-size: 36px;  
 }
@@ -33,7 +33,7 @@ h1 {
 Dans cette 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTk3NDcwMywtMTU5MzE4ODAzMiwxOD
-Q2MzQ5ODk4LC0xNDE4MTk5MDcxLDE3NzI0OTUzOTYsMTE0MjU4
-OTkyMSwtMzM0OTYyMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDUzMTU3MDgsLTE1OTMxODgwMzIsMT
+g0NjM0OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1
+ODk5MjEsLTMzNDk2MjE2XX0=
 -->
