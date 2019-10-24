@@ -8,7 +8,7 @@
 }
 ```
 
-Utiliser 
+La fonction `url()` permet d'indiquer l'url d'une i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0OTQ5MDk2XX0=
+eyJoaXN0b3J5IjpbMTM2ODM5MDk3Myw0MDQ5NDkwOTZdfQ==
 -->
