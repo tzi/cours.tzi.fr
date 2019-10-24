@@ -1,6 +1,7 @@
 # Cacher des éléments
 
-## Cacher complèteme
+## Cacher complètement
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NjcxMjgwXX0=
+eyJoaXN0b3J5IjpbMTI5NTMwMjU1Ml19
 -->
