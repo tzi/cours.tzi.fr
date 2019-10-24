@@ -34,10 +34,10 @@ h1 {
 
 ## Flexbox
 
-On a souvent pas besoin de requêtes média
+On n'a pas toujours besoin de requêtes média pour faire 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjQ2MjM4LDExMTE0ODY4NTYsLTEyMz
-UxNTk1MDMsLTEwMDUzMTU3MDgsLTE1OTMxODgwMzIsMTg0NjM0
-OTg5OCwtMTQxODE5OTA3MSwxNzcyNDk1Mzk2LDExNDI1ODk5Mj
-EsLTMzNDk2MjE2XX0=
+eyJoaXN0b3J5IjpbLTU5OTA0OTk3MSwxMTExNDg2ODU2LC0xMj
+M1MTU5NTAzLC0xMDA1MzE1NzA4LC0xNTkzMTg4MDMyLDE4NDYz
+NDk4OTgsLTE0MTgxOTkwNzEsMTc3MjQ5NTM5NiwxMTQyNTg5OT
+IxLC0zMzQ5NjIxNl19
 -->
