@@ -9,7 +9,11 @@ Vous pouvez indiquer que votre site internet est responsive à l'aide d'une bali
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 ```
+
+## Les requêtes média
+
+**Les requêtes média (_media queries_)** permet de modifier l'apparence d'un site ou d'une application en fonction du type d'appareil (impression ou écran par exemple) et de ses caractéristiques (la résolution d'écran ou la largeur de la zone d'affichage (_viewport_) par exemple).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjQ5NTM5NiwxMTQyNTg5OTIxLC0zMz
-Q5NjIxNl19
+eyJoaXN0b3J5IjpbLTU3NTc1NTYyNiwxNzcyNDk1Mzk2LDExND
+I1ODk5MjEsLTMzNDk2MjE2XX0=
 -->
